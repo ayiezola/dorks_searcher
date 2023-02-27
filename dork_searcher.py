@@ -4,6 +4,8 @@ AGNEE v1.1
 AUTHOR: ESHAN SINGH (R0X4R)
 
 CREDITS https://github.com/tasos-py FOR THE SEARCH_ENGINES LIBRARY
+
+Modified by @ayiezola
 """
 
 #@> IMPORTING ALL DEPENDENCIES
